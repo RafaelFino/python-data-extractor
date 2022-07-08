@@ -1,0 +1,4 @@
+optname;value;major_version;minor_version;revision;install_failures;
+transactional;True;90;0;0;0;
+merge;True;90;0;0;0;
+security_model;True;90;0;0;0;

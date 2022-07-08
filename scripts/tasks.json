@@ -1,0 +1,14 @@
+{
+    "server": "localhost",
+    "database": "master",
+    "username": "sa",
+    "password": "m4dbp@ssw0rd",
+
+    "tasks": [
+        {
+            "queryFile": "scripts/query01.sql",
+            "outputPath": "output/",
+            "outputFilename": "query01.csv"
+        }     
+    ]
+}
